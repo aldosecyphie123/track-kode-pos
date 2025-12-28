@@ -9,7 +9,7 @@
 
 ## 🚀 Deskripsi
 **Track Kode Pos** adalah tool ringan untuk **melacak kode pos di seluruh Indonesia**.  
-Masukkan nama **kota, kecamatan, atau desa**, dan dapatkan **informasi kode pos dengan cepat dan akurat**.
+Masukkan nama **kecamatan, atau desa**, dan dapatkan **informasi kode pos dengan cepat dan akurat**.
 
 ---
 
@@ -18,4 +18,5 @@ Masukkan nama **kota, kecamatan, atau desa**, dan dapatkan **informasi kode pos 
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/aldosecyphie123/track-kode-pos.git
+
 cd track-kode-pos

@@ -22,3 +22,5 @@ git clone https://github.com/aldosecyphie123/track-kode-pos.git
 cd track-kode-pos
 
 npm install --no-bin-links
+
+node index.js

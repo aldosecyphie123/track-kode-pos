@@ -20,3 +20,5 @@ Masukkan nama **kecamatan, atau desa**, dan dapatkan **informasi kode pos dengan
 git clone https://github.com/aldosecyphie123/track-kode-pos.git
 
 cd track-kode-pos
+
+npm install --no-bin-links
